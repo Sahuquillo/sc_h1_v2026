@@ -1,14 +1,14 @@
 {
-    "id": "E504E2AE",
-    "path": "E:/PIC_SMARTCAMPUS/2026-2027/smartcampus_h1_2026/programa_sc_h1_2026.qmd",
-    "project_path": "programa_sc_h1_2026.qmd",
+    "id": "A863D332",
+    "path": "E:/PIC_SMARTCAMPUS/2026-2027/smartcampus_h1_2026/objetivos.qmd",
+    "project_path": "objetivos.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "3287138266",
     "contents": "",
     "dirty": false,
-    "created": 1781086087051.0,
+    "created": 1781105848567.0,
     "source_on_save": false,
-    "relative_order": 2,
+    "relative_order": 3,
     "properties": {
         "rmdVisualMode": "false",
         "rmdVisualWrapConfigured": "true",
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "172,0",
-        "scrollLine": "166",
-        "rmdVisualModeLocation": "571:311.6980895996094"
+        "rmdVisualModeLocation": "2:0",
+        "cursorPosition": "58,2",
+        "scrollLine": "47"
     },
     "folds": "",
-    "lastKnownWriteTime": 1781100724,
+    "lastKnownWriteTime": 1781106591,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1781100724055,
+    "last_content_update": 1781106591959,
     "read_only": false,
     "read_only_alternatives": []
 }
