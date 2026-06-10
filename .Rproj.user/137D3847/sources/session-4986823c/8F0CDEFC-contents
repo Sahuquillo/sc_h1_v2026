@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs 
+
+website:
+  title: "SC-H1-v2026"
+  page-footer: "SmartCampus 2026 | Built with Quarto"
+  search: true
+  navbar:
+    title: "SC-H1-v2026"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: descripcion.qmd
+        text: Descripción SC-H1-v2026
+      - href: objetivos.qmd
+        text: Objetivos SC-H1-v2026
+      - href: programa_sc_h1_2026.qmd
+        text: Programa preliminar SC-H1-v2026
+format:
+  html:
+    theme: flatly
+    toc: true
+    toc-depth: 3
+    css: styles.css
+  docx:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    highlight-style: github

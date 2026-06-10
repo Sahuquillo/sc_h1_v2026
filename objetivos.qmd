@@ -1,0 +1,43 @@
+---
+title: "Objetivos SC-H1-v2026"
+format:
+  html: default
+  docx:
+    output-file: "Objetivos_H1_v2026.docx"
+
+editor: visual
+---
+
+Dirigido a **neurocirujanos, neurólogos, intensivistas, anestesiólogos y personal de enfermería** implicados en el manejo de pacientes con patología neurológica y neuroquirúrgica, este curso tiene como objetivo general actualizar, de forma rigurosa y orientada a la práctica clínica, los conocimientos sobre la hidrocefalia y la dinámica del líquido cefalorraquídeo (LCR). Asimismo, pretende proporcionar herramientas que permitan abordar las preguntas clínicas que surgen en la práctica diaria y facilitar la integración efectiva de estos conocimientos en la actividad asistencial.
+
+## Competencias y resultados de aprendizaje
+
+Al finalizar el curso SC-H1-v2026, el participante será capaz de:
+
+### Conocimientos
+
+- Describir de forma precisa la anatomía y fisiología del sistema del líquido cefalorraquídeo (LCR), incluyendo los mecanismos de producción, circulación y reabsorción.
+
+- Explicar los principales modelos fisiopatológicos implicados en el desarrollo de la hidrocefalia, integrando conceptos clásicos y actuales.
+
+- Reconocer los fundamentos teóricos de la monitorización de la presión intracraneal (PIC) y sus principales parámetros.
+
+### **Habilidades (*Skills*)**
+
+- Interpretar de manera sistemática registros de PIC, distinguiendo patrones fisiológicos y patológicos.
+
+- Analizar datos procedentes de diferentes sistemas de monitorización intracraneal, integrándolos con la situación clínica del paciente.
+
+- Elaborar informes estructurados de interpretación de registros de PIC con relevancia clínica.
+
+- Aplicar los conocimientos teóricos en la resolución de problemas clínicos relacionados con la hidrocefalia.
+
+### Competencias clínicas
+
+- Integrar la información fisiopatológica y los datos de monitorización en la toma de decisiones diagnósticas y terapéuticas en pacientes con hidrocefalia.
+
+- Valorar la indicación, utilidad y limitaciones de las distintas estrategias terapéuticas disponibles.
+
+- Evaluar la respuesta al tratamiento mediante la interpretación de parámetros clínicos y de monitorización.
+
+- Aplicar un razonamiento clínico estructurado en el manejo de casos complejos de alteraciones de la dinámica del LCR.

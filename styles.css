@@ -1,0 +1,23 @@
+/* Sets the base document font size safely */
+body {
+  font-size: 18px;
+  line-height: 1.6; /* Adds comfortable breathing room between text lines */
+}
+
+/* Optional: Ensures your navigation links stay clean and readable */
+.navbar {
+  font-size: 18px;
+}
+
+/* Optional: Keeps code blocks crisp and slightly smaller for readability */
+code, pre {
+  font-size: 16px;
+}
+
+/* This rule only triggers inside an element marked with .academic-indent */
+
+.academic-indent p + p {
+  text-indent: 2.5em;
+  margin-top: 0;
+  margin-bottom: 1.2em;
+}
