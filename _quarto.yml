@@ -12,9 +12,9 @@ website:
       - href: index.qmd
         text: Home
       - href: descripcion.qmd
-        text: Descripción SC-H1-v2026
+        text: Descripción curso
       - href: objetivos.qmd
-        text: Objetivos SC-H1-v2026
+        text: Objetivos curso
       - href: programa_sc_h1_2026.qmd
         text: Programa preliminar SC-H1-v2026
 format:
