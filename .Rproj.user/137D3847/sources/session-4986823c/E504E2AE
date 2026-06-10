@@ -3,7 +3,7 @@
     "path": "E:/PIC_SMARTCAMPUS/2026-2027/smartcampus_h1_2026/programa_sc_h1_2026.qmd",
     "project_path": "programa_sc_h1_2026.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "271592756",
     "contents": "",
     "dirty": false,
     "created": 1781086087051.0,
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "2,7",
-        "scrollLine": "0",
-        "rmdVisualModeLocation": "138:0"
+        "cursorPosition": "57,3",
+        "scrollLine": "47",
+        "rmdVisualModeLocation": "4558:3306.4150390625"
     },
     "folds": "",
-    "lastKnownWriteTime": 1781098719,
+    "lastKnownWriteTime": 1781099498,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1781098719753,
+    "last_content_update": 1781099498320,
     "read_only": false,
     "read_only_alternatives": []
 }

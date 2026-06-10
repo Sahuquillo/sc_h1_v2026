@@ -35,7 +35,7 @@ editor: visual
   **J. Sahuquillo**
 
 - La doctrina de Monro-Kellie: fundamentos y aplicación en el manejo clínico.\
-  **Nelson Barrientos**
+  **N. Pickard**
 
 - Mecanismos de producción del LCR: contribución coroidea y extracoroidea.\
   **M. A. Poca**
@@ -55,7 +55,7 @@ editor: visual
 - El sistema glinfático: nuevos paradigmas en la fisiología del LCR y su relevancia clínica.\
   **M. A. Poca**
 
-#### **Actividades complementarias Modulo 1**
+### **Actividades complementarias Modulo 1**
 
 - **Bibliografía recomendada**
 - **Evaluación para créditos del Módulo 1**
@@ -66,10 +66,11 @@ editor: visual
 ### **Aspectos prácticos en la colocación y manejo de los drenajes ventriculares y lumbares externos.**
 
 - **D. López Bermeo**
+- **Moderación:** M. A. Poca
 
 Utilidad del sistema de drenaje automático de LCR (LiquoGuard®). J. L. Caro Moderación: M. A. Poca (16 de septiembre, 19:00 horas)
 
-### Módulo 2. Actualizaciones sobre los conceptos de hidrocefalia\*\*
+### Módulo 2. Actualizaciones sobre los conceptos de hidrocefalia
 
 - Evaluación preliminar de conocimientos (Finalidad docente, no puntuable)
 
@@ -97,9 +98,11 @@ Utilidad del sistema de drenaje automático de LCR (LiquoGuard®). J. L. Caro Mo
 - **Evaluación para créditos del Módulo 2**
 - **Valoración del Módulo 2 (control de calidad)**
 
-### Webinar (7 de octubre, 19:00 horas)\*\*. Lifelong implications in the diagnosis and management of Hydrocephalus.
+### Webinar (7 de octubre, 19:00 horas)
 
-- **P. M. Klinge**\
+#### \*\*Lifelong implications in the diagnosis and management of Hydrocephalus.
+
+- Presenter: **P. M. Klinge**\
 - Professor of Neurosurgery. The Warren Alpert Medical School of Brown University. Providence, Rhode Island, USA\
 - **Moderación:** J. Sahuquillo
 
@@ -107,9 +110,12 @@ Utilidad del sistema de drenaje automático de LCR (LiquoGuard®). J. L. Caro Mo
 
 - Evaluación preliminar de conocimientos (Finalidad docente, no puntuable).
 
-- Tipos de sensores de PIC. Ventajas e inconvenientes. **M. A. Poca**\
+- Tipos de sensores de PIC. Ventajas e inconvenientes.\
+  **M. A. Poca**
 
-- Los sensores epidurales aplicados al estudio de la hidrocefalia. **M. A. Poca**
+- Los sensores epidurales aplicados al estudio de la hidrocefalia.
+
+  **M. A. Poca**
 
 - Introducción a los sistemas telemétricos.\
   **M. Rivero**
@@ -134,26 +140,28 @@ Utilidad del sistema de drenaje automático de LCR (LiquoGuard®). J. L. Caro Mo
 
 ### Webinar. Taller sobre el registro de PIC mediante un equipo digital (PowerLab 4SP y el programa LabChart 8).
 
-- Fecha: 28 octubre (19:00 a 21:00)\
-- Presentación: M.A. Poca
-- Moderación: J. Sahuquillo
+- **Fecha:** 28 octubre (19:00 a 21:00)
+- **Presentación:** M.A. Poca
+- **Moderación:** J. Sahuquillo
 
 #### Módulo 4. Métodos diagnósticos. Conceptos avanzados sobre presión intracraneal
 
 - Evaluación preliminar de conocimientos (Finalidad docente, no puntuable).
+
 - Introducción a la monografía de Lundberg.\
-  **J. Sahuquillo**\
-- Las ondas A o ‘plateau’. 
-  **M. A. Poca** 
-  
-- Ondas B o beta.  
+  **J. Sahuquillo**
+
+- Las ondas A o ‘plateau’. \
   **M. A. Poca**
 
-- Ondas C.  
+- Ondas B o beta.\
+  **M. A. Poca**
+
+- Ondas C.\
   **J. Sahuquillo**
-  
-- Deconstruyendo el registro de PIC: ondas cardiacas y respiratorias.  
-  **J. Sahuquillo**  
+
+- Deconstruyendo el registro de PIC: ondas cardiacas y respiratorias.\
+  **J. Sahuquillo**
 
 #### **Actividades complementarias Modulo 4**
 
@@ -161,13 +169,12 @@ Utilidad del sistema de drenaje automático de LCR (LiquoGuard®). J. L. Caro Mo
 - **Evaluación para créditos del Módulo 4**
 - **Valoración del Módulo 4 (control de calidad)**
 
-### Webinar | 18 de noviembre, 19:00 horas. Valoración de casos clínicos y registros de PIC.  
-- D. López-Bermeo 
-- J. Sahuquillo   
+### Webinar \| 18 de noviembre, 19:00 horas. Valoración de casos clínicos y registros de PIC.
 
-**Moderación:** M.A. Poca  
+- D. López-Bermeo
+- J. Sahuquillo
+
+**Moderación:** M.A. Poca\
 **Sistema interactivo Vevox**\
 
-
-#### **Encuesta control calidad: Valoración global final del curso SC-H1-v2026**
-
+### **Encuesta control calidad: Valoración global final del curso SC-H1-v2026**
