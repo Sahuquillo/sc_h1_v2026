@@ -70,6 +70,16 @@ editor: visual
 
 Utilidad del sistema de drenaje automático de LCR (LiquoGuard®). J. L. Caro Moderación: M. A. Poca (16 de septiembre, 19:00 horas)
 
+### | **Conferencia invitada**
+
+### Analysis of intracranial pressure pulse waveform
+
+- **Ponente:** **Agnieszka Kazimierska**
+
+**Department of Biomedical Engineering, Wroclaw University of Science and Technology, Wroclaw, Poland**.
+
+- **Moderadora:** M.A. Poca
+
 ### | Módulo 2. Actualizaciones sobre los conceptos de hidrocefalia
 
 - Evaluación preliminar de conocimientos (Finalidad docente, no puntuable)

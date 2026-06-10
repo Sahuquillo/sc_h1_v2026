@@ -1,7 +1,0 @@
-[1,"==> quarto preview programa_sc_h1_2026.qmd --to html --no-watch-inputs --no-browse\n\n"]
-[1,"pandoc \n  to: html\n  output-file: programa_sc_h1_2026.html\n  standalone: true\n  title-prefix: SC-H1-v2026\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  toc: true\n  toc-depth: 3\n  css:\n    - styles.css\n  variables: {}\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  engines:\n    - path: C:\\Users\\Sahuquillo\\AppData\\Local\\Programs\\Quarto\\share\\extension-subtrees\\julia-engine\\_extensions\\julia-engine\\julia-engine.js\n  theme: flatly\n  title: Programa preliminar del curso\n  editor: visual\n  \n"]
-[1,"Output created: docs\\programa_sc_h1_2026.html\n\nPreparing to preview\n"]
-[1,"\nWatching files for changes\nBrowse at http://localhost:5233/programa_sc_h1_2026.html\nListening on http://127.0.0.1:5233/\n"]
-[1,"GET: /programa_sc_h1_2026.html\n"]
-[1,"GET: /programa_sc_h1_2026.html\n"]
-[1,"GET: /programa_sc_h1_2026.html\n"]
