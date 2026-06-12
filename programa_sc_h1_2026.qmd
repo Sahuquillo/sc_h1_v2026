@@ -8,7 +8,7 @@ format:
 editor: visual
 ---
 
-## | **Introducción al curso SC-H1-v2026**
+## \| **Introducción al curso SC-H1-v2026**
 
 - Introducción al funcionamiento de SmartCampus, evaluación y certificados.\
   **M. Tarradas**
@@ -17,7 +17,7 @@ editor: visual
 - Justificación, estructura y contenido del curso SC-H1-v2026.\
   **M.A. Poca**
 
-## | **Conferencia inaugural**
+## \| **Conferencia inaugural**
 
 - Papel de las Acuaporinas cerebrales en la homeostasis del LCR y su contribución al desarrollo de hidrocefalia.
 
@@ -27,7 +27,7 @@ editor: visual
 
 - **Moderadora:** M.A. Poca
 
-## | Módulo 1. Aspectos básicos sobre la fisiología y fisiopatología del LCR
+## \| Módulo 1. Aspectos básicos sobre la fisiología y fisiopatología del LCR
 
 - Evaluación preliminar de conocimientos (Finalidad docente, no puntuable)
 
@@ -61,7 +61,7 @@ editor: visual
 - **Evaluación para créditos del Módulo 1**
 - **Valoración del Módulo 1 (control de calidad)**
 
-## | **Webinar (19.10.2026, 19:00 - 21:00)**
+## \| **Webinar (19.10.2026, 19:00 - 21:00)**
 
 ### **Aspectos prácticos en la colocación y manejo de los drenajes ventriculares y lumbares externos.**
 
@@ -80,7 +80,7 @@ Utilidad del sistema de drenaje automático de LCR (LiquoGuard®). J. L. Caro Mo
 
 - **Moderadora:** M.A. Poca
 
-## | Módulo 2. Actualizaciones sobre los conceptos de hidrocefalia
+## \| Módulo 2. Actualizaciones sobre los conceptos de hidrocefalia
 
 - Evaluación preliminar de conocimientos (Finalidad docente, no puntuable)
 
@@ -108,10 +108,9 @@ Utilidad del sistema de drenaje automático de LCR (LiquoGuard®). J. L. Caro Mo
 - **Evaluación para créditos del Módulo 2**
 - **Valoración del Módulo 2 (control de calidad)**
 
-## | Webinar 2 (9 de noviembre, 19:00 horas)
+## \| Webinar 2 (9 de noviembre, 19:00 horas)
 
-## xxxxx 
-
+## xxxxx
 
 - **Moderación:** J. Sahuquillo
 
@@ -119,8 +118,7 @@ Utilidad del sistema de drenaje automático de LCR (LiquoGuard®). J. L. Caro Mo
 
 - Evaluación preliminar de conocimientos (Finalidad docente, no puntuable).
 
-- **Conferencia invitada**. Lifelong implications in the diagnosis and management of Hydrocephalus.
-  **P. M. Klinge**
+- **Conferencia invitada**. Lifelong implications in the diagnosis and management of Hydrocephalus. **P. M. Klinge**
 
 - Tipos de sensores de PIC. Ventajas e inconvenientes.\
   **M. A. Poca**
@@ -141,20 +139,19 @@ Utilidad del sistema de drenaje automático de LCR (LiquoGuard®). J. L. Caro Mo
 - Errores mas frecuentes y artefactos en un registro de PIC.\
   **M. A. Poca**
 
-
 ### **Actividades complementarias Modulo 3**
 
 - **Bibliografía recomendada**
 - **Evaluación para créditos del Módulo 3**
 - **Valoración del Módulo 3 (control de calidad)**
 
-## | Webinar 3. Taller sobre el registro de PIC mediante un equipo digital (PowerLab 4SP y el programa LabChart 8).
+## \| Webinar 3. Taller sobre el registro de PIC mediante un equipo digital (PowerLab 4SP y el programa LabChart 8).
 
 - **Fecha:** 23 noviembre (19:00 a 21:00)
 - **Presentación:** M.A. Poca
 - **Moderación:** J. Sahuquillo
 
-## | Módulo 4. Métodos diagnósticos. Conceptos avanzados sobre presión intracraneal
+## \| Módulo 4. Métodos diagnósticos. Conceptos avanzados sobre presión intracraneal
 
 - Evaluación preliminar de conocimientos (Finalidad docente, no puntuable).
 
@@ -175,14 +172,14 @@ Utilidad del sistema de drenaje automático de LCR (LiquoGuard®). J. L. Caro Mo
 
 - Características diferenciales de la monitorización de la PIC en la edad pediátrica.\
   **M. A. Poca**
-  
+
 ### **Actividades complementarias Modulo 4**
 
 - **Bibliografía recomendada**
 - **Evaluación para créditos del Módulo 4**
 - **Valoración del Módulo 4 (control de calidad)**
 
-## | Webinar 4| 14 de diciembre, 19:00 horas. Valoración de casos clínicos y registros de PIC.
+## \| Webinar 4\| 14 de diciembre, 19:00 horas. Valoración de casos clínicos y registros de PIC.
 
 - D. López-Bermeo
 - J. Sahuquillo
