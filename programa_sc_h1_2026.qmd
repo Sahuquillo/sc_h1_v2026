@@ -21,9 +21,7 @@ editor: visual
 
 - Papel de las Acuaporinas cerebrales en la homeostasis del LCR y su contribución al desarrollo de hidrocefalia.
 
-- **Ponente:** **Miriam Echevarria**
-
-**Catedrática de Fisiología del Departamento de Fisiología Médica y Biofísica** de la Facultad de Medicina de la Universidad de Sevilla.
+- Ponente: **Miriam Echevarria**. Catedrática de Fisiología del Departamento de Fisiología Médica y Biofísica de la Facultad de Medicina de la Universidad de Sevilla.
 
 - **Moderadora:** M.A. Poca
 
@@ -70,7 +68,7 @@ editor: visual
 
 Utilidad del sistema de drenaje automático de LCR (LiquoGuard®). J. L. Caro Moderación: M. A. Poca (16 de septiembre, 19:00 horas)
 
-## | **Conferencia invitada**
+## \| **Conferencia invitada**
 
 ### Analysis of intracranial pressure pulse waveform
 
@@ -114,7 +112,7 @@ Utilidad del sistema de drenaje automático de LCR (LiquoGuard®). J. L. Caro Mo
 
 - **Moderación:** J. Sahuquillo
 
-## | Módulo 3. Métodos diagnósticos. Conceptos básicos sobre la presión intracraneal.
+## \| Módulo 3. Métodos diagnósticos. Conceptos básicos sobre la presión intracraneal.
 
 - Evaluación preliminar de conocimientos (Finalidad docente, no puntuable).
 
