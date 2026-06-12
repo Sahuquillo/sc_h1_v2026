@@ -8,7 +8,7 @@ format:
 editor: visual
 ---
 
-## \| **Introducción al curso SC-H1-v2026**
+## **Introducción al curso SC-H1-v2026**
 
 - Introducción al funcionamiento de SmartCampus, evaluación y certificados.\
   **M. Tarradas**
@@ -17,7 +17,7 @@ editor: visual
 - Justificación, estructura y contenido del curso SC-H1-v2026.\
   **M.A. Poca**
 
-## \| **Conferencia inaugural**
+## **Conferencia inaugural**
 
 - Papel de las Acuaporinas cerebrales en la homeostasis del LCR y su contribución al desarrollo de hidrocefalia.
 
@@ -25,7 +25,7 @@ editor: visual
 
 - **Moderadora:** M.A. Poca
 
-## \| Módulo 1. Aspectos básicos sobre la fisiología y fisiopatología del LCR
+## | Módulo 1. Aspectos básicos sobre la fisiología y fisiopatología del LCR
 
 - Evaluación preliminar de conocimientos (Finalidad docente, no puntuable)
 
@@ -185,4 +185,4 @@ Utilidad del sistema de drenaje automático de LCR (LiquoGuard®). J. L. Caro Mo
 **Moderación:** M.A. Poca\
 **Sistema interactivo Vevox**\
 
-### **Encuesta control calidad: Valoración global final del curso SC-H1-v2026**
+### - **Encuesta control calidad: Valoración global final del curso SC-H1-v2026**
