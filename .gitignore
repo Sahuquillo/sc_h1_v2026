@@ -1,3 +1,13 @@
+# Quarto rendering and execution caches
 /.quarto/
-**/*.quarto_ipynb
-.Rproj.user
+
+# Local RStudio state and user files
+/.Rproj.user
+.Rhistory
+.RData
+.RDataTmp
+.Ruserdata
+
+# Operating system artifacts
+.DS_Store
+Thumbs.db
