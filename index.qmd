@@ -11,7 +11,7 @@ about:
       href: https://www.neurotrauma.com
 ---
 
-# **SC‑H1‑v2026: Introducción a la hidrocefalia y alteraciones de la dinámica del LCR** (Edición 2026)
+## **SC‑H1‑v2026: Introducción a la hidrocefalia y alteraciones de la dinámica del LCR** (Edición 2026)
 
 **Precio matrícula ^(1)^**: 120 €
 
@@ -20,8 +20,10 @@ about:
 **Reserva plaza:** smart.campus\@neurotrauma.net\
 **Fechas del curso:** 28.09.2026 – 03.01.2027
 
-**(1) La matrícula del curso incluye:**
+::: callout-important
+## (1) **La matrícula del curso incluye:**
 
 - Inscripción en la plataforma SmartCampus.
 - Acceso continuo al contenido del curso, las 24 horas del día, durante toda su duración.
 - Certificado de formación continuada al completar el curso.
+:::

@@ -1,10 +1,14 @@
 ---
-title: "Programa preliminar del curso"
+title: "Programa SC-H1-v2026"
+subtitle: "[SmartCampus](https://smartcampus.neurotrauma.net/)"
 format:
-  html: default
+  html:
+    toc: true
+    toc-location: right
+    reference-location: document
+    theme: flatly
   docx:
     output-file: "Programa_H1_v2026.docx"
-
 editor: visual
 ---
 
@@ -19,13 +23,11 @@ editor: visual
 
 ## **Conferencia inaugural**
 
-- Papel de las Acuaporinas cerebrales en la homeostasis del LCR y su contribución al desarrollo de hidrocefalia.
+**Papel de las Acuaporinas cerebrales en la homeostasis del LCR y su contribución al desarrollo de hidrocefalia.**
 
 - Ponente: **Miriam Echevarria**. Catedrática de Fisiología del Departamento de Fisiología Médica y Biofísica de la Facultad de Medicina de la Universidad de Sevilla.
 
-- **Moderadora:** M.A. Poca
-
-## | Módulo 1. Aspectos básicos sobre la fisiología y fisiopatología del LCR
+## Módulo 1 \| Aspectos básicos sobre la fisiología y fisiopatología del LCR
 
 - Evaluación preliminar de conocimientos (Finalidad docente, no puntuable)
 
@@ -39,7 +41,7 @@ editor: visual
   **M. A. Poca**
 
 - Funciones y composición del LCR: implicaciones para la fisiología y la clínica.\
-  **L. Castellanos**\
+  **L. Castellanos**
 
 - Anatomía del sistema ventricular y de los espacios subaracnoideo.\
   **C. Mezza**
@@ -59,28 +61,26 @@ editor: visual
 - **Evaluación para créditos del Módulo 1**
 - **Valoración del Módulo 1 (control de calidad)**
 
-## \| **Webinar (19.10.2026, 19:00 - 21:00)**
+## **Webinar \| 19.10.2026, 19:00 - 21:00**
 
-### **Aspectos prácticos en la colocación y manejo de los drenajes ventriculares y lumbares externos.**
+### **- Aspectos prácticos en la colocación y manejo de los drenajes ventriculares y lumbares externos.**
 
-- Ponente: **D. López Bermeo**
+- **Ponente:** D. López-Bermeo
+
+### **- Utilidad del sistema de drenaje automático de LCR (LiquoGuard®).**
+
+- **Ponente:** J. L. Caro
+
+<!-- -->
+
 - **Moderación:** M. A. Poca
 
-Utilidad del sistema de drenaje automático de LCR (LiquoGuard®). J. L. Caro Moderación: M. A. Poca (16 de septiembre, 19:00 horas)
-
-## \| **Conferencia invitada**
-
-### Analysis of intracranial pressure pulse waveform
-
-- **Ponente:** **Agnieszka Kazimierska**
-
-**Department of Biomedical Engineering, Wroclaw University of Science and Technology, Wroclaw, Poland**.
-
-- **Moderadora:** M.A. Poca
-
-## \| Módulo 2. Actualizaciones sobre los conceptos de hidrocefalia
+## Módulo 2 \| Actualizaciones sobre los conceptos de hidrocefalia
 
 - Evaluación preliminar de conocimientos (Finalidad docente, no puntuable)
+
+- **Conferencia invitada**. *Lifelong implications in the diagnosis and management of Hydrocephalus.* \
+  **P. M. Klinge**
 
 - Definición y tipos de hidrocefalia.\
   **M. A. Poca**
@@ -98,7 +98,7 @@ Utilidad del sistema de drenaje automático de LCR (LiquoGuard®). J. L. Caro Mo
   **J. Sahuquillo**
 
 - Introducción a los estudios de la dinámica del LCR.\
-  **MA Poca o els de l’article**
+  **A. Otero**
 
 ### **Actividades complementarias Modulo 2**
 
@@ -106,23 +106,27 @@ Utilidad del sistema de drenaje automático de LCR (LiquoGuard®). J. L. Caro Mo
 - **Evaluación para créditos del Módulo 2**
 - **Valoración del Módulo 2 (control de calidad)**
 
-## \| Webinar 2 (9 de noviembre, 19:00 horas)
+## Webinar 2 \| 9 de noviembre, 19:00 horas
 
-## xxxxx
+## - Presentación y discusión de casos clínicos.
 
-- **Moderación:** J. Sahuquillo
+- **Ponentes:** G. Moreno y D. López-Bermeo
 
-## \| Módulo 3. Métodos diagnósticos. Conceptos básicos sobre la presión intracraneal.
+<!-- -->
+
+- **Moderación:** M.A. Poca
+
+## Módulo 3 \| Métodos diagnósticos. Conceptos básicos sobre la presión intracraneal.
 
 - Evaluación preliminar de conocimientos (Finalidad docente, no puntuable).
 
-- **Conferencia invitada**. Lifelong implications in the diagnosis and management of Hydrocephalus. **P. M. Klinge**
+- **Conferencia invitada:** Analysis of intracranial pressure pulse waveform\
+  **Agnieszka Kazimierska.** Department of Biomedical Engineering, Wroclaw University of Science and Technology, Wroclaw, Poland.
 
 - Tipos de sensores de PIC. Ventajas e inconvenientes.\
   **M. A. Poca**
 
-- Los sensores epidurales aplicados al estudio de la hidrocefalia.
-
+- Los sensores epidurales aplicados al estudio de la hidrocefalia.\
   **M. A. Poca**
 
 - Introducción a los sistemas telemétricos.\
@@ -134,7 +138,7 @@ Utilidad del sistema de drenaje automático de LCR (LiquoGuard®). J. L. Caro Mo
 - Cómo analizar un registro de PIC. Características de un registro normal e introducción a los registros digitales.\
   **M. A. Poca**
 
-- Errores mas frecuentes y artefactos en un registro de PIC.\
+- Errores más frecuentes y artefactos en un registro de PIC.\
   **M. A. Poca**
 
 ### **Actividades complementarias Modulo 3**
@@ -143,13 +147,13 @@ Utilidad del sistema de drenaje automático de LCR (LiquoGuard®). J. L. Caro Mo
 - **Evaluación para créditos del Módulo 3**
 - **Valoración del Módulo 3 (control de calidad)**
 
-## \| Webinar 3. Taller sobre el registro de PIC mediante un equipo digital (PowerLab 4SP y el programa LabChart 8).
+## Webinar 3 \| Taller sobre el registro de PIC mediante un equipo digital (PowerLab 4SP y el programa LabChart 8).
 
 - **Fecha:** 23 noviembre (19:00 a 21:00)
 - **Presentación:** M.A. Poca
 - **Moderación:** J. Sahuquillo
 
-## \| Módulo 4. Métodos diagnósticos. Conceptos avanzados sobre presión intracraneal
+## Módulo 4 \| Métodos diagnósticos. Conceptos avanzados sobre presión intracraneal
 
 - Evaluación preliminar de conocimientos (Finalidad docente, no puntuable).
 
@@ -177,12 +181,14 @@ Utilidad del sistema de drenaje automático de LCR (LiquoGuard®). J. L. Caro Mo
 - **Evaluación para créditos del Módulo 4**
 - **Valoración del Módulo 4 (control de calidad)**
 
-## \| Webinar 4\| 14 de diciembre, 19:00 horas. Valoración de casos clínicos y registros de PIC.
+## Webinar 4 \| 14 de diciembre, 19:00 horas. 
 
-- D. López-Bermeo
-- J. Sahuquillo
+## El mito de la hipotensión intracraneal
 
-**Moderación:** M.A. Poca\
-**Sistema interactivo Vevox**\
+- **Ponente:** M.A. Poca
 
-### - **Encuesta control calidad: Valoración global final del curso SC-H1-v2026**
+- **Moderador:** J. Sahuquillo
+
+- **Sistema interactivo Vevox**\
+
+## - **Encuesta control calidad: Valoración global final del curso SC-H1-v2026**
