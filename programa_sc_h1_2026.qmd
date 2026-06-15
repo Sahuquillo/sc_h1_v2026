@@ -44,7 +44,7 @@ editor: visual
   **L. Castellanos**
 
 - Anatomía del sistema ventricular y de los espacios subaracnoideo.\
-  **C. Mezza**
+  **E. Benages**
 
 - Circulación y reabsorción del LCR: claves para entender la dinámica intracraneal.\
   **D. Lopez-Bermeo**
@@ -183,7 +183,7 @@ editor: visual
 
 ## *Journal Club*
 
-::: callout-note
+::: callout-important
 ## Trabajo seleccionado
 
 1.  **Espay AJ, Da Prat GA, Dwivedi AK, et al.** Deconstructing normal pressure hydrocephalus: Ventriculomegaly as early sign of neurodegeneration. *Annals of Neurology* 2017;82(4):503–513; doi: [10.1002/ana.25046](https://doi.org/10.1002/ana.25046).

@@ -21,3 +21,34 @@ code, pre {
   margin-top: 0;
   margin-bottom: 1.2em;
 }
+
+/* ==========================================================================
+   PERSONALIZACIÓN DE COLORES PARA CALLOUTS (QUARTO)
+   ========================================================================== */
+
+/* 1. Modificar el Callout de tipo NOTE (Por defecto es Azul) */
+.callout.callout-style-default.callout-note {
+  border-left-color: #1a5276;      /* Color de la barra vertical izquierda */
+  background-color: #f4f6f7;       /* Color de fondo del bloque */
+}
+.callout-note .callout-title {
+  color: #1a5276;                  /* Color del texto del título */
+}
+
+/* 2. Modificar el Callout de tipo TIP (Por defecto es Verde) */
+.callout.callout-style-default.callout-tip {
+  border-left-color: #1e8449;      /* Color de la barra izquierda */
+  background-color: #eaf2f8;       /* Color de fondo */
+}
+.callout-tip .callout-title {
+  color: #1e8449;
+}
+
+/* 3. Modificar el Callout de tipo IMPORTANT (Por defecto es Rojo) */
+.callout.callout-style-default.callout-important {
+  border-left-color: #922b21;      /* Color de la barra izquierda */
+  background-color: #f9ebea;       /* Color de fondo */
+}
+.callout-important .callout-title {
+  color: #922b21;
+}
