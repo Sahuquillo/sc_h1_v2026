@@ -50,7 +50,7 @@ Al finalizar el curso SC-H1-v2026, el participante será capaz de:
 
 - Aplicar un razonamiento clínico estructurado basado en el eje: volumen-\>presión–\>compliance–\>flujo–\>pulsatilidad cerebral.
 
-::: {.callout-note style="font-size: 1.15em;"}
+::: {.callout-important style="font-size: 1.15em;"}
 ## Competencias Transversales
 
 - Analizar críticamente la literatura científica relevante (*Journal Club*) en relación con la dinámica del LCR y la PIC.
