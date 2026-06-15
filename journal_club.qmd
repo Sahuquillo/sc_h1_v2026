@@ -1,0 +1,28 @@
+---
+title: "journal_club"
+author: "J. Sahuquillo"
+editor: visual
+---
+## Finalidad del Journal Club
+
+La finalidad de este *Journal Club* es transformar la lectura pasiva de la literatura científica en un ejercicio dinámico de **análisis crítico, debate metodológico y transferencia clínica**. En la práctica neuroquirúrgica actual, la medicina basada en la evidencia exige no solo conocer los resultados de las publicaciones, sino evaluar críticamente el diseño de los estudios, identificar posibles sesgos de selección y contrastar los nuevos paradigmas con las guías de práctica clínica establecidas. 
+
+A través de este espacio, buscamos desafiar dogmas tradicionales, analizar la solidez de la evidencia y determinar el impacto real de los trabajos seleccionados en la toma de decisiones clinicas.
+
+---
+
+## Estructura del Journal Club
+
+Para facilitar una asimilación progresiva y flexible del contenido, esta actividad está estructurada en **cuatro fases correlativas** que combinan la evaluación independiente con herramientas de IA:
+
+### 🧠 1. Activación de Conocimientos (Quiz Previo)
+Antes de desglosar el artículo, realizarás un cuestionario breve de autoevaluación. El objetivo de este test no es calificar el expediente, sino activar tus conceptos de partida sobre la materia y despertar las preguntas clínicas esenciales que el trabajo selecionadointenta responder.
+
+### 🎧 2. Inmersión Dinámica (Podcast)
+A través de un debate en formato audio de alta calidad, analizaremos de manera ágiles y fluida los ejes vertebrales del artículo. Esta síntesis en formato podcast te permitirá repasar los argumentos metodológicos fundamentales del trabajo.
+
+### 📺 3. Contextualización de la Evidencia (Opinión del Experto)
+La teoría se contrasta con la práctica real. En este bloque audiovisual, un  experto analizará las limitaciones metodológicas del estudio, los sesgos de la muestra analizada y razonará cómo influyen (o por qué no deben influir) estos hallazgos en los criterios clínicos y/oquirúrgicos.
+
+### 💬 4. Construcción Colectiva (Foro de Debate)
+El conocimiento se consolida discutiendo. Esta sección concluye en el foro de SmartCampus, donde podrás plantear tus conclusiones, responderás a las dudas generadas por la lectura y debatirá los resultados con el resto del grupo de participantes en el curso.
