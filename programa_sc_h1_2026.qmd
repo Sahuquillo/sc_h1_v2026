@@ -79,7 +79,7 @@ editor: visual
 
 - Evaluación preliminar de conocimientos (Finalidad docente, no puntuable)
 
-- **Conferencia invitada**. *Lifelong implications in the diagnosis and management of Hydrocephalus.* \
+- **Conferencia invitada**. *Lifelong implications in the diagnosis and management of Hydrocephalus.*\
   **P. M. Klinge**
 
 - Definición y tipos de hidrocefalia.\
@@ -181,7 +181,21 @@ editor: visual
 - **Evaluación para créditos del Módulo 4**
 - **Valoración del Módulo 4 (control de calidad)**
 
-## Webinar 4 \| 14 de diciembre, 19:00 horas. 
+## *Journal Club*
+
+::: callout-note
+## Trabajo seleccionado
+
+1.  **Espay AJ, Da Prat GA, Dwivedi AK, et al.** Deconstructing normal pressure hydrocephalus: Ventriculomegaly as early sign of neurodegeneration. *Annals of Neurology* 2017;82(4):503–513; doi: [10.1002/ana.25046](https://doi.org/10.1002/ana.25046).
+:::
+
+- Articulo completo (formato PDF)
+- Análisis resumen (Podcast generado por IA)
+- Autoevaluación inicial del trabajo
+- La opinión experta (video). Ponente: J. Sahuquillo
+- Foro de discusión
+
+## Webinar 4 \| 14 de diciembre, 19:00 horas.
 
 ## El mito de la hipotensión intracraneal
 

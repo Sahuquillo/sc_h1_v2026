@@ -11,3 +11,5 @@
 # Operating system artifacts
 .DS_Store
 Thumbs.db
+
+**/*.quarto_ipynb
