@@ -43,7 +43,7 @@ editor: visual
 - Funciones y composición del LCR: implicaciones para la fisiología y la clínica.\
   **L. Castellanos**
 
-- Anatomía del sistema ventricular y de los espacios subaracnoideo.\
+- Anatomía del sistema ventricular y de los espacios subaracnoideos.\
   **E. Benages**
 
 - Circulación y reabsorción del LCR: claves para entender la dinámica intracraneal.\
